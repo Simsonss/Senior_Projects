@@ -1,0 +1,7 @@
+#ignore files in back folder
+back/node_modules/
+back/.env
+
+#ignore files in front folder
+front/node_modules/
+front/.env.local
